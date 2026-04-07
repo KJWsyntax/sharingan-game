@@ -8,7 +8,7 @@ Built as part of my software engineering bootcamp journey, originally as a Node.
 
 ## 🎮 Play It Live
 
-Coming soon 
+[Play Sharingan](https://KJWsyntax.github.io/sharingan-game)
 
 ---
 
